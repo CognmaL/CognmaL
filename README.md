@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h2> Hi 👋, there is Phuong Ngoc Lam aka CognmaL </h2>
+  <h2> Hi 👋, there is Phuong Ngoc Lam aka PNL </h2>
 </div>
 
 <div align="left">
