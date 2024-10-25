@@ -7,11 +7,11 @@
 </div>
 
 <div align="left">
-  <p> 🚀 I am currently a third-year college student majoring in Bachelor Of Data Science from HCMUS </p>
+  <p> 🚀 I am currently a senior student majoring in Bachelor Of Data Science from HCMUS </p>
   <p> 🌱 I’m currently learning AI, ML, Data Science applications in Business.
-  <p> 🤩 I have a great interest in Finance and Quantitative!</p>
-  <p> 👯 I’m looking to collaborate on project about AI and DA.
-  <p> 🧐 I’m looking for the job related in Data Analyst and Quantitative Researcher.
+  <p> 🤩 I have a great interest in NLP and Quantitative!</p>
+  <p> 👯 I’m looking to collaborate on project about AI.
+  <p> 🧐 I’m looking for the job related in Data Scientist and AI Engineer.
   <p> 📫 How to reach me:  <a href="mailto:phuongngoclam.job@gmail.com">phuongngoclam.job@gmail.com</a> 
 </div>
 
